@@ -28,6 +28,6 @@ Just order the PCB & components, open up the KiCAD file and build it accordingly
 - 6 	10k Resistor
 - 1 	Button switch
 
-Made by `@Eslam Essam` on slack :D
+Made by `@Eslam Essam` on slack id :U08260E7B4J
 
 Made as a part of http://solder.hackclub.com/!
